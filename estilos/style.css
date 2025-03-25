@@ -46,7 +46,7 @@ section#login {
 
 section#login > div#imagem{
     display: block;
-    background: #9FD9EC url("../imagens/pexels-emrecan-2110951 (1).jpg");
+    background: #9FD9EC url("../imagens/pexels-emrecan-2110951\ \(1\).jpg");
 
 
     background-size: cover;
