@@ -35,15 +35,19 @@ section#login {
 
     background-color: white;
     width: 250px;
-    height: 300;
+    height: 500px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.521);
+
+    transition: width .5s, height .5s;
+    transition-timing-function: ease;
 
 }
 
 section#login > div#imagem{
     display: block;
-    background: #9FD9EC url(../imagens/pexels-emrecan-2110951\ \(1\).jpg);
+    background: #9FD9EC url("../imagens/pexels-emrecan-2110951 (1).jpg");
+
 
     background-size: cover;
     height: 200px;
